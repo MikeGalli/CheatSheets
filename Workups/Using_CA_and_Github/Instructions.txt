@@ -1,0 +1,91 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: Using_CA_and_Github.indd
+
+PACKAGE DATE: 1/29/16 7:33 AM
+Creation Date: 1/29/16
+Modification Date: 1/29/16
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 2
+
+FusionProCC11UI.InDesignPlugin
+ExtensisFontManagementIDCC2015.InDesignPlugin
+
+
+Non Opaque Objects :On Page1
+
+FONTS
+2 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: HelveticaNeue-Bold; Type: TrueType, Status: OK
+- Name: HelveticaNeue-CondensedBold; Type: TrueType, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 75.000; Lines/Inch: 70.000
+- Name and Type: Process Magenta; Angle: 15.000; Lines/Inch: 70.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 70.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 70.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 17 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 17 use RGB color space
+
+
+PRINT SETTINGS
+PPD: Device Independent, (PostScript® File)
+Printing To: Prepress File
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0p0, 0p0, 0p0, 0p0
+Color: Composite CMYK
+Trapping Mode: None
+Send Image Data: All
+OPI/DCS Image Replacement: No
+Page Size: Tabloid
+Paper Dimensions: 0p0 x 0p0
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. Using_CA_and_Github.indd; type: Adobe InDesign publication; size: 3492K
+2. Using_CA_and_Github.idml; type: InDesign Markup Document; size: 47K
+3. Using_CA_and_Github.pdf; type: Adobe Acrobat Document; size: 702K
+4. HelveticaNeue.dfont; type: Font file; size: 6828K
